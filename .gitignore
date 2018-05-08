@@ -1,0 +1,9 @@
+### Julia ###
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+deps/deps.jl
+
+### JupyterNotebook ###
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
